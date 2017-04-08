@@ -1,3 +1,10 @@
+<a name="1.0.3"></a>
+## 1.0.3 (2017-04-08)
+
+* Fix assign default values ([e303cf8](https://github.com/kikobeats/bigsurfshop-api/commit/e303cf8))
+
+
+
 <a name="1.0.2"></a>
 ## 1.0.2 (2017-04-08)
 
