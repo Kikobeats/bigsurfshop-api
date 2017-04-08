@@ -1,3 +1,10 @@
+<a name="1.0.2"></a>
+## 1.0.2 (2017-04-08)
+
+* If offer price is present use it ([01f0c42](https://github.com/kikobeats/bigsurfshop-api/commit/01f0c42))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2017-04-08)
 
