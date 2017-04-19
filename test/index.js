@@ -25,7 +25,7 @@ describe('bigsurfshop-api', function () {
     stream.on('error', done)
 
     stream.on('end', function () {
-      should((count > 1)).be.true()
+      should(count > 1).be.true()
 
       buffer.forEach(item => {
         describe(item.title, () => {
