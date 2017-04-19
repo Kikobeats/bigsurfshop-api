@@ -1,3 +1,10 @@
+<a name="1.0.5"></a>
+## 1.0.5 (2017-04-19)
+
+* Tests refactor ([33e02df](https://github.com/kikobeats/bigsurfshop-api/commit/33e02df))
+
+
+
 <a name="1.0.4"></a>
 ## 1.0.4 (2017-04-18)
 
