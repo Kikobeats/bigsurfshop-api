@@ -1,5 +1,7 @@
 # bigsurfshop-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Kikobeats/bigsurfshop-api.svg)](https://greenkeeper.io/)
+
 ![Last version](https://img.shields.io/github/tag/Kikobeats/bigsurfshop-api.svg?style=flat-square)
 [![Build Status](http://img.shields.io/travis/Kikobeats/bigsurfshop-api/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/bigsurfshop-api)
 [![Coverage Status](https://img.shields.io/coveralls/Kikobeats/bigsurfshop-api.svg?style=flat-square)](https://coveralls.io/github/Kikobeats/bigsurfshop-api)
