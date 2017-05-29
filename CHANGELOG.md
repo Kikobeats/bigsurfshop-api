@@ -1,3 +1,10 @@
+<a name="1.0.6"></a>
+## 1.0.6 (2017-05-29)
+
+* fix(package): update got to version 7.0.0 ([03cadc7](https://github.com/kikobeats/bigsurfshop-api/commit/03cadc7))
+
+
+
 <a name="1.0.5"></a>
 ## 1.0.5 (2017-04-19)
 
