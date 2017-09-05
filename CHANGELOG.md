@@ -1,3 +1,14 @@
+<a name="1.0.7"></a>
+## 1.0.7 (2017-09-05)
+
+* Ensure resolve protocol ([58ea1ba](https://github.com/kikobeats/bigsurfshop-api/commit/58ea1ba))
+* Update API connector ([5928651](https://github.com/kikobeats/bigsurfshop-api/commit/5928651))
+* Update README.md ([6c18d79](https://github.com/kikobeats/bigsurfshop-api/commit/6c18d79))
+* docs(readme): add Greenkeeper badge ([99fa5e6](https://github.com/kikobeats/bigsurfshop-api/commit/99fa5e6))
+* fix(package): update got to version 7.1.0 ([87f3b94](https://github.com/kikobeats/bigsurfshop-api/commit/87f3b94))
+
+
+
 <a name="1.0.6"></a>
 ## 1.0.6 (2017-05-29)
 
