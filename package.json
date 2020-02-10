@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "from2": "~2.3.0",
-    "got": "~9.2.0",
+    "got": "~10.5.5",
     "lodash.reduce": "~4.6.0",
     "parse-price": "~1.1.3"
   },
